@@ -2,11 +2,11 @@
 - [x] Establish a Github account and join the class organization.
 - [x] Give ownership to Sophie so we both can see and make changes.
 - [x] Create a readme.md file
-- [ ] Write README.md
+- [x] Write README.md
 - [x] Write projectroadmap.md
-- [ ] Explore python code related to our project.
-- [ ] Evaluate the code and type (here) what our findings were and how we could use it in our own project.
-- [ ] Finish Sprint 1.
+- [x] Explore python code related to our project.
+- [x] Evaluate the code: We found multiple repositiories that are similar to our project idea that could help us get started in the correct direction. The thing that is different in our project versus the other ones we looked at, is that ours has three different levels to get through. I like how in the other repositories we saw is the verbage they used for the players that are playing the game. 
+- [x] Finish Sprint 1.
 - [ ] Start building our project (start coding and using git to manage our code).
 - [ ] Post updates in Github where professor can see them.
 - [ ] Sophie completed 6 code changes of significant size that includes a comment that explains what was changed.
