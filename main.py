@@ -22,5 +22,15 @@ if guess == words_one[word]:
   print("Correct! Move on to the next level!")
 else:
   print("Incorrect, Please try again!")
+
+  for word in range(len(words_two)):
+     scrambled = "".join(random.sample(words_two[word] , len(words_two[word])))
+     print (f"Unscramble this word! {scrambled} ")
+     guess == input("Write here:")
+if guess == words_two[word]:
+   print("Correct! Move on to the last level!")
+else:
+   print("Incorrect, Please try again!")
+
  
 
